@@ -1,0 +1,59 @@
+01nascidosvivos_xls/Tabela 1.1.xls: Tabela 1.1 - Nascidos vivos, por ano do nascimento, segundo o lugar de residência da mãe - antes de 2016 e 2016-2024
+01nascidosvivos_xls/Tabela 1.11.xls: Tabela 1.11 - Nascidos vivos, ocorridos no ano, por lugar de nascimento do pai,
+01nascidosvivos_xls/Tabela 1.12.xls: Tabela 1.12 - Nascidos vivos, ocorridos no ano, filhos de mães que nasceram e residiam no mesmo lugar, por grupos de idade da mãe
+01nascidosvivos_xls/Tabela 1.13.xls: Tabela 1.13 - Nascidos vivos, por ano do nascimento,
+segundo o lugar do registro - antes de 2016 e 2016-2024
+01nascidosvivos_xls/Tabela 1.20.xls: Tabela 1.20 - Nascidos vivos, ocorridos no ano, filhos de mães estrangeiras que residiam no Brasil, segundo país de nacionalidade da mãe – Brasil – 2024
+01nascidosvivos_xls/Tabela 1.21.xls: Tabela 1.21 - Nascidos vivos, ocorridos no ano, filhos de mães estrangeiras que residiam no Brasil, por sexo, segundo grupos de idade da mãe na ocasião do parto
+01nascidosvivos_xls/Tabela 1.22.xls: Tabela 1.22 - Nascidos vivos, ocorridos no ano, filhos de mães que residiam no Brasil, por nacionalidade da mãe, segundo grupos de idade da mãe na ocasião do pa
+01nascidosvivos_xls/Tabela 1.23.xls: Tabela 1.23 - Nascidos vivos, ocorridos no ano, filhos de mães estrangeiras que residiam no Brasil, por sexo, segundo lugar de residência da mãe – Brasil – 2024
+01nascidosvivos_xls/Tabela 1.4.xls: Tabela 1.4 - Nascidos vivos, ocorridos no ano, por mês do nascimento, segundo o lugar de residência da mãe - 2024
+01nascidosvivos_xls/Tabela 1.5.xls: Tabela 1.5 - Nascidos vivos, ocorridos no ano, por mês do registro, segundo o lugar de residência da mãe - 2024
+01nascidosvivos_xls/Tabela 1.6.xls: Tabela 1.6 - Nascidos vivos, ocorridos no ano, por local do nascimento, tipo de gravidez e sexo,  segundo o lugar de residência da mãe - 2024
+01nascidosvivos_xls/Tabela 1.7.xls: Tabela 1.7 - Nascidos vivos, ocorridos no ano, por sexo e local do nascimento,
+01nascidosvivos_xls/Tabela 1.8.xls: Tabela 1.8 - Nascidos vivos, ocorridos no ano, por grupos de idade da mãe na ocasião do parto, segundo o lugar de residência da mãe - 2024
+02obitos_xls/Tabela 2.1.xls: Tabela 2.1 - Óbitos, por ano de ocorrência e sexo, segundo o lugar de residência do falecido - antes de 2023,  2023 e 2024
+02obitos_xls/Tabela 2.10.xls: Tabela 2.10 - Óbitos, ocorridos no ano, por grupos de idade, segundo o lugar de residência do falecido - 2024
+02obitos_xls/Tabela 2.11.xls: Tabela 2.11 - Óbitos de pessoas do sexo masculino, ocorridos no ano, por grupos de idade, segundo o lugar de residência do falecido - 2024
+02obitos_xls/Tabela 2.12.xls: Tabela 2.12 - Óbitos de pessoas do sexo feminino, ocorridos no ano, por grupos de idade, segundo o lugar de residência do falecido - 2024
+02obitos_xls/Tabela 2.13.xls: Tabela 2.13 - Óbitos, ocorridos no ano, por mês de ocorrência,
+02obitos_xls/Tabela 2.15.xls: Tabela 2.15 - Óbitos de menores de 1 ano, ocorridos no ano, por grupos de idade e sexo, segundo o lugar de residência do falecido - 2024
+02obitos_xls/Tabela 2.16.xls: Tabela 2.16 - Óbitos, por ano de ocorrência e sexo,
+segundo o lugar do registro - antes de 2023, 2023 e 2024
+02obitos_xls/Tabela 2.23.xls: Tabela 2.23 - Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por ano e sexo, segundo país de nacionalidade da pessoa falecida – Brasil – 2024
+02obitos_xls/Tabela 2.24.1.xls: Tabela 2.24.1 - Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo, segundo grupos de idade da pessoa falecida – Brasil – 2024
+02obitos_xls/Tabela 2.24.2.xls: Tabela 2.24.2 - Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo, segundo grupos de idade da pessoa falecida – Brasil – 2024
+02obitos_xls/Tabela 2.25.1.xls: Tabela 2.25.1 - Óbitos, ocorridos no ano, de pessoas que residiam no Brasil, por nacionalidade, segundo grupos de idade da pessoa falecida – Brasil –  2024
+02obitos_xls/Tabela 2.25.2.xls: Tabela 2.25.2 - Óbitos, ocorridos no ano, de pessoas que residiam no Brasil, por nacionalidade, segundo grupos de idade da pessoa falecida – Brasil – 2024
+02obitos_xls/Tabela 2.26.xls: Tabela 2.26 - Óbitos, ocorridos no ano, de estrangeiros que residiam no Brasil, por sexo, segundo lugar de residência da pessoa falecida – Brasil – 2024
+02obitos_xls/Tabela 2.3.xls: Tabela 2.3 - Óbitos, ocorridos no ano, por mês de ocorrência, segundo o lugar de residência do falecido - 2024
+02obitos_xls/Tabela 2.4.xls: Tabela 2.4 - Óbitos, ocorridos no ano, por natureza do óbito e sexo, segundo o lugar de residência do falecido - 2024
+02obitos_xls/Tabela 2.5.xls: Tabela 2.5 - Óbitos, ocorridos no ano, por natureza do óbito e sexo,
+02obitos_xls/Tabela 2.6.xls: Tabela 2.6 - Óbitos, ocorridos no ano, por local de ocorrência e sexo, segundo o lugar de residência do falecido - 2024
+02obitos_xls/Tabela 2.7.xls: Tabela 2.7 - Óbitos, ocorridos no ano, por local de ocorrência e sexo,
+02obitos_xls/Tabela 2.8.xls: Tabela 2.8 - Óbitos, ocorridos no ano, por estado civil e sexo, segundo o lugar de residência do falecido - 2024
+02obitos_xls/Tabela 2.9.xls: Tabela 2.9 - Óbitos, ocorridos no ano, por estado civil e sexo,
+04casamentos_xls/Tabela 4.1.1.xls: Tabela 4.1.1 - Casamentos, por mês de registro, segundo o lugar do registro - 2024													
+04casamentos_xls/Tabela 4.1.2.xls: Tabela 4.1.2 - Casamentos entre cônjuges masculino e feminino, por mês de registro, segundo o lugar do registro - 2024													
+04casamentos_xls/Tabela 4.1.3.xls: Tabela 4.1.3 - Casamentos entre cônjuges masculinos, por mês de registro, segundo o lugar do registro - 2024													
+04casamentos_xls/Tabela 4.1.4.xls: Tabela 4.1.4 - Casamentos entre cônjuges femininos, por mês de registro, segundo o lugar do registro - 2024													
+04casamentos_xls/Tabela 4.10.1.xls: Tabela 4.10.1 - Casamentos entre cônjuges masculino e feminino, por nacionalidade dos cônjuges masculino e feminino, segundo o lugar do registro - 2024
+04casamentos_xls/Tabela 4.10.2.xls: Tabela 4.10.2 - Casamentos entre cônjuges masculinos, por nacionalidade de ambos os cônjuges masculinos, segundo o lugar do registro - 2024
+04casamentos_xls/Tabela 4.10.3.xls: Tabela 4.10.3 - Casamentos entre cônjuges femininos, por nacionalidade de ambos os cônjuges femininos, segundo o lugar do registro - 2024
+04casamentos_xls/Tabela 4.15.1.xls: Tabela 4.15.1 - Casamentos entre cônjuges masculino e feminino, por lugar de nascimento do cônjuge masculino, segundo o lugar de nascimento do cônjuge feminino 
+04casamentos_xls/Tabela 4.15.2.xls: Tabela 4.15.2 - Casamentos entre cônjuges masculinos, por lugar de nascimento do cônjuge masculino 1, segundo o lugar de nascimento do cônjuge masculino 2 - 202
+04casamentos_xls/Tabela 4.15.3.xls: Tabela 4.15.3 - Casamentos entre cônjuges femininos, por lugar de nascimento do cônjuge feminino 1, segundo o lugar de nascimento do cônjuge feminino 2 - 2024	
+04casamentos_xls/Tabela 4.16.xls: Tabela 4.16 - Casamentos entre cônjuges que residiam no Brasil, e pelo menos um dos cônjuges estrangeiro, por sexo e nacionalidade dos cônjuges, segundo ano de 
+04casamentos_xls/Tabela 4.17.xls: Tabela 4.17 - Casamentos entre cônjuges masculino e feminino que residiam no Brasil, e pelo menos um dos cônjuges estrangeiro, por nacionalidade dos cônjuges, s
+04casamentos_xls/Tabela 4.3.1.xls: Tabela 4.3.1 - Casamentos entre cônjuges masculino e feminino, por grupos de idade do cônjuge masculino, segundo os grupos de idade do cônjuge feminino - 2024
+04casamentos_xls/Tabela 4.3.2.xls: Tabela 4.3.2 - Casamentos entre cônjuges masculinos, por grupos de idade do cônjuge masculino 1, segundo os grupos de idade do cônjuge masculino 2 - 2024
+04casamentos_xls/Tabela 4.3.3.xls: Tabela 4.3.3 - Casamentos entre cônjuges femininos, por grupos de idade do cônjuge feminino 1, segundo os grupos de idade do cônjuge feminino 2 - 2024
+04casamentos_xls/Tabela 4.5.1.xls: Tabela 4.5.1 - Casamentos entre cônjuges masculino e feminino, por grupos de idade do cônjuge masculino, segundo o lugar do registro - 2024
+04casamentos_xls/Tabela 4.5.2.xls: Tabela 4.5.2 - Casamentos entre cônjuges masculinos, por grupos de idade do cônjuge masculino 1, segundo o lugar do registro - 2024
+04casamentos_xls/Tabela 4.5.3.xls: Tabela 4.5.3 - Casamentos entre cônjuges femininos, por grupos de idade do cônjuge feminino 1, segundo o lugar do registro - 2024
+04casamentos_xls/Tabela 4.7.1.xls: Tabela 4.7.1 - Casamentos entre cônjuges masculino e feminino, por grupos de idade do cônjuge feminino, segundo o lugar do registro - 2024	
+04casamentos_xls/Tabela 4.7.2.xls: Tabela 4.7.2 - Casamentos entre cônjuges masculinos, por grupos de idade do cônjuge masculino 2, segundo o lugar do registro - 2024	
+04casamentos_xls/Tabela 4.7.3.xls: Tabela 4.7.3 - Casamentos entre cônjuges femininos, por grupos de idade do cônjuge feminino 2, segundo o lugar do registro - 2024	
+04casamentos_xls/Tabela 4.9.1.xls: Tabela 4.9.1 - Casamentos entre cônjuges masculino e feminino, por estado civil  dos cônjuges masculino e feminino, segundo o lugar do registro - 2024
+04casamentos_xls/Tabela 4.9.2.xls: Tabela 4.9.2 - Casamentos entre cônjuges masculinos, por estado civil  de ambos os cônjuges masculinos, segundo o lugar do registro - 2024
+04casamentos_xls/Tabela 4.9.3.xls: Tabela 4.9.3 - Casamentos entre cônjuges femininos, por estado civil  de ambos os cônjuges femininos, segundo o lugar do registro - 2024

@@ -1,0 +1,38 @@
+================================================================================
+data/raw/01nascidosvivos_xls/Tabela 1.1.xls | abas: ['Tabela 1.1']
+
+--- aba 'Tabela 1.1' | tamanho: (211, 13) ---
+                       0                      1                      2                3     4     5     6     7     8     9     10     11         12
+0   Tabela 1.1 - Nasci...                    NaN                    NaN              NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN    NaN        NaN
+1                     NaN                    NaN                    NaN              NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN    NaN        NaN
+2   Lugar de residênci...  Nascidos vivos reg...                    NaN              NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN    NaN        NaN
+3                     NaN  Total\nde\nregistr...      Ano de nascimento              NaN   NaN   NaN   NaN   NaN   NaN   NaN   NaN    NaN        NaN
+4                     NaN                    NaN  Ano de nascimento\...  Antes\nde\n2016  2016  2017  2018  2019  2020  2021  2022   2023     2024.0
+5                   Total                2442726                    135            38072  1055  1156  1409  1832  2688  3342  4546  11590  2376901.0
+6              Brasil (1)                2421079                     69            24380   868   976  1202  1623  2427  3084  4262  11243  2370945.0
+7                   Norte                 280694                     12            11287   314   360   528   765  1237  1568  2200   5388   257035.0
+8                Rondônia                  21952                      1               41     3     6     8    11     9    11    19     60    21783.0
+9   RM de Porto Velho ...                   6427                      1               24     1     2     2     6     6     2     5     15     6363.0
+10            Porto Velho                   6128                      1               22     1     2     2     6     6     2     5     15     6066.0
+11                   Acre                  13759                      2              114    10    15    24    40    89    91   143    316    12915.0
+12             Rio Branco                   4956                      -               26     2     2     6    23    39    41    59    107     4651.0
+13               Amazonas                  76797                      -             9613   138   141   189   270   437   557   770   1670    63012.0
+================================================================================
+data/raw/02obitos_xls/Tabela 2.1.xls | abas: ['Tabela 2.1']
+
+--- aba 'Tabela 2.1' | tamanho: (213, 13) ---
+                       0                      1                  2          3         4          5          6         7          8          9         10  11  12
+0   Tabela 2.1 - Óbito...                    NaN                NaN        NaN       NaN        NaN        NaN       NaN        NaN        NaN       NaN NaN NaN
+1                     NaN                    NaN                NaN        NaN       NaN        NaN        NaN       NaN        NaN        NaN       NaN NaN NaN
+2   Lugar de residênci...  Óbitos            ...                NaN        NaN       NaN        NaN        NaN       NaN        NaN        NaN       NaN NaN NaN
+3                     NaN  Total\nde\nregistr...  Ano de ocorrência        NaN       NaN        NaN        NaN       NaN        NaN        NaN       NaN NaN NaN
+4                     NaN                    NaN      Antes de 2023        NaN       NaN       2023        NaN       NaN       2024        NaN       NaN NaN NaN
+5                     NaN                    NaN          Total (2)       Sexo       NaN  Total (2)       Sexo       NaN  Total (2)       Sexo       NaN NaN NaN
+6                     NaN                    NaN                NaN  Masculino  Feminino        NaN  Masculino  Feminino        NaN  Masculino  Feminino NaN NaN
+7                   Total                1516381              13337       7287      5977       6838       3674      3145    1495386     815608    678372 NaN NaN
+8              Brasil (3)                1510695              12518       6762      5711       6648       3542      3088    1490857     812518    677114 NaN NaN
+9                   Norte                  91122               3578       2177      1396       1251        687       563      86266      51387     34841 NaN NaN
+10               Rondônia                  10102                 23         20         3         15         13         2      10061       6122      3935 NaN NaN
+11  RM de Porto Velho ...                   2912                 12         12         -          8          8         -       2892       1796      1094 NaN NaN
+12            Porto Velho                   2771                 11         11         -          8          8         -       2752       1701      1049 NaN NaN
+13                   Acre                   4238                 70         41        29         63         38        25       4105       2419      1684 NaN NaN
